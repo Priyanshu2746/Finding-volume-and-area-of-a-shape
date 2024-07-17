@@ -12,7 +12,7 @@ Pyramid
 All of these classes extend the Shape class, which is an abstract class that defines the calculatePerimeter and calculateArea methods. The Cylinder class also implements the Volume interface, which defines the calculateVolume method.
 
 Usage
-To use the program, run the Main class. This will display a menu of shapes that the user can choose from. Once the user selects a shape, they will be prompted to enter the necessary measurements for that shape (e.g. radius, height, etc.). The program will then calculate and display the area and volume of the selected shape.
+To use the program, rs will display a menu of shapes that the user can choose from. Once the user selects a shape, they will be prompted to enter the necessary measurements for that shape (e.g. radius, height, etc.). The program will then calculate and display the area and volume of the selected shape.
 
 Example
 Here's an example of how to use the program:
