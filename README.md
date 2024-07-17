@@ -6,7 +6,7 @@ Shape Classes
 The program has the following shape class
 
 Cir
-Rectangle
+Re
 Square
 Sphere
 Cylinder
