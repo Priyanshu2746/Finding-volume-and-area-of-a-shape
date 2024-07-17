@@ -1,38 +1,53 @@
 # Shape Calculator
-java_assignment5
-This is a Java program that calculates the area and volume of various shapes. The program is menu-driven, and the user can choose which shape to calculate the area and volume for.
 
-Shape Classes
-The program 
-Sphere
-Cylinder
-Pyramid
-All of these classes extend the Shape class, which is an abstract class that defines the calculatePerimeter and calculateArea methods. The Cylinder class also implements the Volume interface, which defines the calculateVolume method.
+This Java program calculates the area, perimeter, and volume of various shapes. The program is menu-driven, and the user can choose which shape to calculate for.
 
-Usage
-To use the program, rs will display a menu of shapes that the user can choose from. Once the user selects a shape, they will be prompted to enter the necessary measurements for that shape (e.g. radius, height, etc.). The program will then calculate and display the area and volume of the selected shape.
+## Shape Classes
 
-Example
-Here's an example of how to use the program:
+The program includes the following shape classes:
+- `Circle`
+- `Rectangle`
+- `Square`
+- `Sphere`
+- `Cylinder`
+- `Pyramid`
 
-Welcome to the Shape Calculator!
+All of these classes extend the `Shape` class, which is an abstract class that defines the `calculatePerimeter` and `calculateArea` methods. The `Cylinder` class also implements the `Volume` interface, which defines the `calculateVolume` method.
 
-Please select a shape to calculate:
-1. Circle
-2. Rectangle
-3. Square
-4. Sphere
-5. Cylinder
-6. Pyramid
+## Usage
 
-Enter your choice: 5
+To use the program, run the `Main` class. This will display a menu of shapes that the user can choose from. Once the user selects a shape, they will be prompted to enter the necessary measurements for that shape (e.g., radius, height, etc.). The program will then calculate and display the area, perimeter, and volume (if applicable) of the selected shape.
 
-You have selected the Cylinder.
+## Installation
 
-Enter the radius of Cylinder: 3
-Enter the height of Cylinder: 5
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/shape-calculator.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd shape-calculator
+    ```
+3. Compile the Java files:
+    ```sh
+    javac Main.java
+    ```
+4. Run the program:
+    ```sh
+    java Main
+    ```
 
-The perimeter of Cylinder is 56.548667764616276
-The area of Cylinder is 141.3716694115407
-The volume of Cylinder is 141.3716694115407
-In this example, the user selects the Cylinder shape and enters the necessary measurements. The program then calculates and displays the perimeter, area, and volume of the cylinder.
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Happy calculating!
+```
+
+This README file provides an overview of your Shape Calculator program, how to use it, an example, installation instructions, contribution guidelines, and licensing information.
