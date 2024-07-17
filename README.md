@@ -5,8 +5,7 @@ This is a Java program that calculates the area and volume of various shapes. Th
 Shape Classes
 The program has the following shape class
 
-Re
-Square
+R
 Sphere
 Cylinder
 Pyramid
