@@ -3,7 +3,7 @@ java_assignment5
 This is a Java program that calculates the area and volume of various shapes. The program is menu-driven, and the user can choose which shape to calculate the area and volume for.
 
 Shape Classes
-The program has the following shape classes:
+The program has the following shape class
 
 Cir
 Rectangle
