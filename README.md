@@ -41,13 +41,4 @@ To use the program, run the `Main` class. This will display a menu of shapes tha
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Happy calculating!
-```
-
-This README file provides an overview of your Shape Calculator program, how to use it, an example, installation instructions, contribution guidelines, and licensing information.
